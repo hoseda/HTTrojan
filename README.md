@@ -1,2 +1,2 @@
-# Just Install Dependencies and Run the interaction_cli.py.
+# Just Install Dependencies and Run the interactive_cli.py.
 ## Enjoy :)
